@@ -1,5 +1,5 @@
 # Strawberry
 ### The best web framework
 
-(docs)[/docs]
+[docs](/docs)
 Web Framework
