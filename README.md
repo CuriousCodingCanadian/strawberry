@@ -1,2 +1,2 @@
-# strawberry.github.io
+# strawberry
 Web Framework
